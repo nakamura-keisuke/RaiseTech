@@ -1,0 +1,20 @@
+package first;
+
+public class Kadai3 {
+
+	public static void main(String[] args) {
+
+		int i=0;
+
+		if(i==11) {
+			System.out.println("hello");
+		}else
+			System.out.println("hello world");
+
+		for(int a=0;a<11;a++) {
+			System.out.println("Hello world");
+
+	}
+
+	}
+}

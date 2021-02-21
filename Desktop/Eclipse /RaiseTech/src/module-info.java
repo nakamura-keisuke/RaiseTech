@@ -1,0 +1,3 @@
+module RaiseTech {
+	exports first;
+}

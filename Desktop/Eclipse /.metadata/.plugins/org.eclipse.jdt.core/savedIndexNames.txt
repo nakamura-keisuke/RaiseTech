@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/nakamurakeitasuku/Desktop/Eclipse /.metadata/.plugins/org.eclipse.jdt.core
+3636017066.index
+1278750107.index
+2710549243.index
+417243627.index
